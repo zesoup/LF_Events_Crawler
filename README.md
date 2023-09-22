@@ -1,5 +1,5 @@
 # LF_Events_Crawler
-Simple Bash-Script to scrawl the LinuxFoundation-Website for Images after a conference as their interactive mosaic formar is somewhat cumbersome for mirroring.
+Simple Bash-Script to scrawl the LinuxFoundation-Website for Images after a conference as their interactive mosaic format is somewhat cumbersome for mirroring.
 
 ```
 bash ../crawler.sh 
